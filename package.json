@@ -1,0 +1,32 @@
+{
+  "name": "text-case-converter",
+  "version": "1.0.5",
+  "description": "Convert text between different case styles (camelCase, snake_case, kebab-case, etc.)",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "keywords": [
+    "text",
+    "case",
+    "converter",
+    "camelcase",
+    "snakecase",
+    "kebabcase",
+    "pascalcase",
+    "string",
+    "utility"
+  ],
+  "author": "onelifepolymath",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samyra312007/text-case-convertor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Samyra312007/text-case-convertor/issues"
+  },
+  "homepage": "https://github.com/Samyra312007/text-case-convertor#readme",
+  "scripts": {
+    "test": "node test.js",
+    "prepublishOnly": "npm test"
+  }
+}
