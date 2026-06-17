@@ -1,5 +1,5 @@
 {
-  "name": "text-case-converter",
+  "name": "text-case-convertor",
   "version": "1.0.5",
   "description": "Convert text between different case styles (camelCase, snake_case, kebab-case, etc.)",
   "main": "src/index.js",
