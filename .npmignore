@@ -1,5 +1,8 @@
-test.js
-.gitignore
-.gitattributes
-.git/
 node_modules/
+test.js
+.git/
+.github/
+.vscode/
+.DS_Store
+*.log
+*.tgz
